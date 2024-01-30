@@ -14,6 +14,7 @@ I am LinkedIn Top Voices in AI/ML/SDE, LinkedIn For Creators Alum, Exclusive Exp
 
 ## 📈 Topmate Profile
 [Book me on TopMate Sessions](https://topmate.io/yasinshah)
+
 ![Alt text](https://github.com/Yasin-Shah/Portfolio-Images/blob/main/featured-topmate%20(1).jpg)
 
 ## 🌐 Connect with Me
