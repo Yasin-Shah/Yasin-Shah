@@ -4,7 +4,7 @@ I am LinkedIn Top Voices in AI/ML/SDE, LinkedIn For Creators Alum, Exclusive Exp
 
 ## 🚀 About Me
 
-- Profession as a Founer and CEO at Technocolabs Software Inc.
+- Profession as a Founder and CEO at Technocolabs Software Inc.
 - Currently contributing as a Sr. Software Engineer specializing in AI/ML at Google Chrome & Earth.
 - Being an alumnus of the LinkedIn For Creators program has further enriched my journey.
 - As a LinkedIn Top Voice in (AI/ML), I have had the privilege of being recognized among the thought leaders.
