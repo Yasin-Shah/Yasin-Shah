@@ -1,4 +1,4 @@
-![Alt text](https://github.com/Yasin-Shah/Portfolio-Images/blob/main/1705565106065.jpg)
+![Alt text](https://github.com/Yasin-Shah/Portfolio-Images/blob/main/image.jpg)
 # 👋 Hello, I'm Yasin Shah 
 
 I am LinkedIn Top Voices in AI/ML/SDE, LinkedIn For Creators Alum, Exclusive Expert. Product professional at Google Chrome & Earth. Senior Software Engineer specializing in AI/ML. Technical Interview Coach at CodePath. Mentor, Instructor, and former member of Meta.
