@@ -13,6 +13,8 @@ I am LinkedIn Top Voices in AI/ML/SDE, LinkedIn For Creators Alum, Exclusive Exp
 - Formerly at Meta, I bring a diverse perspective to my current endeavors. The experience at Meta was invaluable.
 
 ## 📈 Topmate Profile
+I'm excited to help folks out and give back to the community via Topmate. Feel free to reach out if you have any questions or just want to say hi!
+
 [Click Here on TopMate Sessions](https://topmate.io/yasinshah)
 
 ![Alt text](https://github.com/Yasin-Shah/Portfolio-Images/blob/main/featured-topmate%20(1).jpg)
